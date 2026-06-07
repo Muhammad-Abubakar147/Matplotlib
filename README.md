@@ -9,3 +9,8 @@ A comprehensive repository demonstrating data visualization using Matplotlib, on
 - Histograms
 - Scatter Plots
 - Pie Charts
+- Subplots
+- Custom Styling
+- Data Visualization Techniques
+- Real-World Examples
+- Beginner-Friendly Code
