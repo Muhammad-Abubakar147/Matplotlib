@@ -2,3 +2,10 @@
 
 A comprehensive repository demonstrating data visualization using Matplotlib, one of Python's most powerful plotting libraries. This project contains examples, charts, graphs, and visualization techniques for data analysis and presentation.
 
+## 🚀 Features
+
+- Line Plots
+- Bar Charts
+- Histograms
+- Scatter Plots
+- Pie Charts
