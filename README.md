@@ -14,3 +14,9 @@ A comprehensive repository demonstrating data visualization using Matplotlib, on
 - Data Visualization Techniques
 - Real-World Examples
 - Beginner-Friendly Code
+
+## 🛠️ Technologies Used
+
+- Python
+- Matplotlib
+- NumPy
