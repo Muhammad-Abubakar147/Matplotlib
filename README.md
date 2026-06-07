@@ -20,3 +20,5 @@ A comprehensive repository demonstrating data visualization using Matplotlib, on
 - Python
 - Matplotlib
 - NumPy
+- Pandas (Optional)
+- Jupyter Notebook / VS Code
