@@ -23,11 +23,10 @@ A comprehensive repository demonstrating data visualization using Matplotlib, on
 - Pandas (Optional)
 - Jupyter Notebook / VS Code
 
-
 ## 📥 Installation
 
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/https://github.com/Muhammad-Abubakar147/Matplotlib.git/
-cd matplotlib
+git clone https://github.com/Muhammad-Abubakar147/Matplotlib.git
+cd Matplotlib
