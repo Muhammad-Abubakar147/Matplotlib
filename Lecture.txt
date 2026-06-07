@@ -1,0 +1,17 @@
+Introduction to Matplotlib :
+
+Matplotlib is a powerful open-source Python library used for creating static, animated, and interactive
+visualizations. It helps users transform raw data into meaningful charts and graphs for analysis, reporting, and presentation.
+
+We can say that a simple picture is better than thousands words .
+Matplotlib is python library which shows graphs of data which is easy to understand to anyone .
+
+=> With Matplotlib, you can create:
+
+Line Plots
+Bar Charts
+Histograms
+Scatter Plots
+Pie Charts
+Subplots
+Statistical Visualizations
